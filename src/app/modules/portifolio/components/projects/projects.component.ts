@@ -23,7 +23,63 @@ export class ProjectsComponent {
         href: 'https://vidafullstack.com',
       },
     ]
-  }
+  },
+    {
+      src: 'assets/img/projects/vfull.png',
+      alt: 'Projeto Vida FullStack',
+      title: "Vida FullStack",
+      width: '100px',
+      height: '51px',
+      description: '',
+      links: [
+        {
+          name: 'Conheça o Blog',
+          href: 'https://vidafullstack.com',
+        },
+      ]
+    },
+    {
+      src: 'assets/img/projects/vfull.png',
+      alt: 'Projeto Vida FullStack',
+      title: "Vida FullStack",
+      width: '100px',
+      height: '51px',
+      description: '',
+      links: [
+        {
+          name: 'Conheça o Blog',
+          href: 'https://vidafullstack.com',
+        },
+      ]
+    },
+    {
+      src: 'assets/img/projects/vfull.png',
+      alt: 'Projeto Vida FullStack',
+      title: "Vida FullStack",
+      width: '100px',
+      height: '51px',
+      description: '',
+      links: [
+        {
+          name: 'Conheça o Blog',
+          href: 'https://vidafullstack.com',
+        },
+      ]
+    },
+    {
+      src: 'assets/img/projects/vfull.png',
+      alt: 'Projeto Vida FullStack',
+      title: "Vida FullStack",
+      width: '100px',
+      height: '51px',
+      description: '',
+      links: [
+        {
+          name: 'Conheça o Blog',
+          href: 'https://vidafullstack.com',
+        },
+      ]
+    }
   ])
 
 }
